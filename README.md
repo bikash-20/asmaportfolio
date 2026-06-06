@@ -1,4 +1,5 @@
 Custom Portfolio UI/UX Rendering Engine
+live link: https://bikash-20.github.io/asmaportfolio/
 An advanced, vanilla web frontend architecture engineered completely outside of official coursework during my 2nd Year, 1st Semester. This project was developed as an independent exploration into premium interactive UI paradigms, programmatic rendering patterns, and client-side performance optimization—leveraging pure HTML5, CSS3, and modern ECMAScript (ES6+) without modern framework abstractions.
 
 🔬 Core Architectural Intent
